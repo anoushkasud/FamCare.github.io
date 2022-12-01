@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Famcare.github.io/static/css/main.3a54d6fa.css",
-    "main.js": "/Famcare.github.io/static/js/main.58bf1881.js",
+    "main.js": "/Famcare.github.io/static/js/main.d44d8aa0.js",
     "static/js/787.0009289c.chunk.js": "/Famcare.github.io/static/js/787.0009289c.chunk.js",
     "static/media/robot.png": "/Famcare.github.io/static/media/robot.b3924d6a4b8b19ef9de9.png",
     "static/media/Doctor6.png": "/Famcare.github.io/static/media/Doctor6.59c76ca30d29c273cbf8.png",
@@ -47,11 +47,11 @@
     "static/media/quotes.svg": "/Famcare.github.io/static/media/quotes.c8bb1da8320f056e0e1cf903465cc3a6.svg",
     "static/media/facebook.svg": "/Famcare.github.io/static/media/facebook.34082cd87ee9398b19edd541204c2227.svg",
     "main.3a54d6fa.css.map": "/Famcare.github.io/static/css/main.3a54d6fa.css.map",
-    "main.58bf1881.js.map": "/Famcare.github.io/static/js/main.58bf1881.js.map",
+    "main.d44d8aa0.js.map": "/Famcare.github.io/static/js/main.d44d8aa0.js.map",
     "787.0009289c.chunk.js.map": "/Famcare.github.io/static/js/787.0009289c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a54d6fa.css",
-    "static/js/main.58bf1881.js"
+    "static/js/main.d44d8aa0.js"
   ]
 }
